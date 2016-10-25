@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="36240452007599"
+    token="5309262772695448810"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/ps11/Documents/Android/Nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="36102821457870"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ps11/Documents/Android/Nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="36240452007599"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/ps11/Documents/Android/Nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

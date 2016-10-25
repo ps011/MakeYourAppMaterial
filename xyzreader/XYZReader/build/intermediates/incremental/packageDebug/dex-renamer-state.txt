@@ -1,0 +1,7 @@
+#Wed Oct 26 01:18:33 IST 2016
+base.0=/Users/ps11/Documents/Android/Nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e447bc98ce1f0f41f35fc0ff922586ce500af65e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ps11/Documents/Android/Nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb21ac79313620a640ac3dcd1de0d9e6ca1d59ed/classes.dex
+base.1=/Users/ps11/Documents/Android/Nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb21ac79313620a640ac3dcd1de0d9e6ca1d59ed
+file.0=/Users/ps11/Documents/Android/Nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e447bc98ce1f0f41f35fc0ff922586ce500af65e/classes.dex
